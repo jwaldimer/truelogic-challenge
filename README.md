@@ -2,7 +2,7 @@
 This is a small challenge for a Truelogic
 
 ## Challenge details
-Te file **challenge.rb** contains one class called *Challenge* where is defined two methods, each one is the response for the questions of the Truelogic challenged.
+Te file **challenge.rb** contains one class called *Challenge* where is defined two methods, each one is the response for the questions of the Truelogic challenge.
 
 The data used for the methods is readed from the files **w_data.dat** and **soccer.dat**
 
