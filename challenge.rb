@@ -38,6 +38,8 @@ class Challenge
     smallest_goals.first
   end
 
+  private
+  
   def read_and_clean_file(filename)
     file = File.open(filename, File::RDONLY)
     lines = file.readlines.map!(&:chomp)
